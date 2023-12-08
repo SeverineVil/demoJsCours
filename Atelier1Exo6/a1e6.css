@@ -1,0 +1,16 @@
+body {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100vh;
+ 
+}
+
+#circle {   
+    background-color: red;
+    border-radius:50%;
+    width:20px;
+    height:20px;
+    border:2px solid black; 
+    position: absolute;
+}

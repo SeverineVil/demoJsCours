@@ -1,0 +1,29 @@
+.admin_container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9rem;
+    display: flex;
+    flex-direction: column;       
+}
+
+#users {  
+     border-collapse: collapse;
+     color: black;     
+     text-align: center;
+     width: 40%;
+}
+
+#users tr:first-child td{
+    background-color: black;
+    color: white;
+    height: 40px;;
+}
+
+#users tr:nth-child(odd){
+    background-color: rgb(147, 152, 152);
+   
+}
+   
+#users tr:nth-child(even){
+    background-color: rgb(237, 182, 231);
+   
+}
