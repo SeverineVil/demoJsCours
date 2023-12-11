@@ -1,0 +1,9 @@
+[
+    {"nom" : "Skywalker", "prénom" : "Luke", "camp" : "Jedi"},
+    {"nom" : "Skywalker", "prénom" : "Anakin", "camp" : "Jedi (?)"},
+    {"nom" : "Jin", "prénom" : "Qui Gon", "camp" : "Jedi"},
+    {"nom" : "Palpatine", "prénom" : "Chancelier", "camp" : "Sith"},
+    {"nom" : "Dark", "prénom" : "Maul", "camp" : "Sith"},
+    {"nom" : "Tano", "prénom" : "Ahsoka", "camp" : "Gris"}   
+   
+] 
